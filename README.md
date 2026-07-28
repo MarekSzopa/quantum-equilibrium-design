@@ -12,7 +12,7 @@ two-player games".
 - `code/Figure1_parameter_regions.nb` – generates Fig. 1.
 - `code/Figure2&3_payoff_regions.nb` – generates Fig. 2 and Fig. 3. This .nb requires QEGS.wl
 - `code/Figure4_hardware_results.nb` – processes IBM Quantum results and generates Fig. 4. This .nb requires QEGS.wl
-- `code/QEGS.wl - Mathematica package dedicated to investigation of Nash equilibria \
+- `code/QEGS.wl` - Mathematica package dedicated to investigation of Nash equilibria \
 existence in quantum extended games based on EWL scheme
 - `code/IBMQ_experiment.ipynb` – creates and executes the EWL circuits.
 - `data/raw/` – raw IBM Quantum measurement counts.
