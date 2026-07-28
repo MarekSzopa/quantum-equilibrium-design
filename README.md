@@ -14,7 +14,7 @@ two-player games".
 - `code/Figure4_hardware_results.nb` – processes IBM Quantum results and generates Fig. 4. This .nb requires QEGS.wl
 - `code/QEGS.wl` - Mathematica package dedicated to investigation of Nash equilibria \
 existence in quantum extended games based on EWL scheme
-- `code/IBMQ_experiment.ipynb` – creates and executes the EWL circuits.
+- `code/IBMQ/*.ipynb` – files to create and execute the EWL circuits.
 - `data/raw/` – raw IBM Quantum measurement counts.
 - `data/processed/` – processed payoff estimates and statistical summaries.
 - `source_data/Source_Data.xlsx` – numerical source data underlying
