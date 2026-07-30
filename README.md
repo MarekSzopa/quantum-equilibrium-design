@@ -15,7 +15,7 @@ two-player games".
 - `code/QEGS.wl` - Mathematica package dedicated to investigation of Nash equilibria \
 existence in quantum extended games based on EWL scheme
 - `code/IBMQ/*.ipynb` – files to create and execute the EWL circuits.
-- `data/raw/` – raw IBM Quantum measurement counts.
+- `data/raw/` – raw IBM Quantum measurement counts. The experiments were performed in June 2026 
 ### This package was generated from the five raw IBM Quantum count files:
 - `wyniki_czysta.txt`
 - `wyniki_IIa.txt`
